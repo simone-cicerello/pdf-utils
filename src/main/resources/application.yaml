@@ -1,0 +1,8 @@
+folder:
+  path:
+    input: C:\Users\simon\Desktop\Spring Professional Certification Course TEST
+    output: C:\Users\simon\Desktop
+
+logging:
+  level:
+    com.thealmighty.pdfutils: DEBUG
